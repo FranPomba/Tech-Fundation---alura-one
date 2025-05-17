@@ -10,4 +10,6 @@ Documentar o progresso nos estudos e consolidar o aprendizado dos principais tó
 
 - Introdução a linguagem **Python**
 - Trabalhando com funções e excecões com **Python**
-
+- NumPy: análise numérica eficiente com **Python**
+- Pandas: conhecendo a biblioteca
+- Pandas I/O: trabalhando com diferentes formatos de arquivos
